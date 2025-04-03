@@ -1,7 +1,7 @@
 <template>
 <SupraMenu/>
 
-<main>
+<main class="flex">
     <LateralisMenu/>
     <router-view/>
 </main>
